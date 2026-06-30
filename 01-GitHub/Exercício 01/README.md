@@ -85,7 +85,7 @@ Abaixo está o controle de progresso das tarefas estipuladas para a entrega:
 Aqui estão centralizados os recursos de mídia e links necessários para a validação dos exercícios de inclusão de elementos externos e locais:
 
 * 🌐 **Link Externo:** Para entender mais sobre sintaxe, acesse a [Documentação Oficial do Markdown](https://docs.github.com).
-* 🗂️ **Link de Arquivo Local:** Leia as diretrizes de uso contidas no arquivo [LICENSE](.../LICENSE).
+* 🗂️ **Link de Arquivo Local:** Leia as diretrizes de uso contidas no arquivo [LICENSE](../../LICENSE).
 * 📖 **Link para PDF:** Acesse o arquivo de especificações abrindo o [Documento Técnico (PDF)](./docs/documento.pdf).
 
 ### Mídias e Ilustrações
