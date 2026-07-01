@@ -61,12 +61,6 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
 ```
 
-### 2. Comandos do Terminal
-```bash
-# Garante que o gerenciador de pacotes do ambiente está atualizado
-pip install --upgrade pip
-```
-
 ---
 
 ## 📋 Checklist de Atividades
