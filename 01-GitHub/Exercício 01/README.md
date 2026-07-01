@@ -77,7 +77,7 @@ Abaixo está o controle de progresso das tarefas estipuladas para a entrega:
 - [x] Adicionar README
 - [x] Inserir imagem
 - [x] Inserir PDF
-- [ ] Finalizar documentação
+- [x] Finalizar documentação
 
 ---
 
