@@ -105,6 +105,7 @@ Esta seção agrupa os 5 elementos adicionais da linguagem Markdown que não hav
     Você descobriu o conteúdo escondido! Essa estrutura (tags details e summary) é excelente para organizar FAQs ou logs extensos sem poluir o visual do arquivo.
     </details>
 5.  **Imagem Clicável (GIF Animado):** O GIF animado abaixo funciona como um link hipertexto configurado por âncora. Clique na imagem para retornar ao início da página:
+
     [![Voltar ao Topo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VvYmk3Znd6bHNxczI2bWZ0N3FhdHpxYTBhNWh2Mms5Ymd4cm05dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3knKct3fGqxhK/giphy.gif)](#-projeto-modelo-demonstração-de-markdown)
 
 ---
