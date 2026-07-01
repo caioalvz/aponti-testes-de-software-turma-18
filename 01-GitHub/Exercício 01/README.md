@@ -40,13 +40,14 @@ A tabela abaixo lista as ferramentas e tecnologias abordadas neste módulo de es
 Representação visual simplificada da organização dos arquivos e diretórios deste projeto:
 
 ```text
-📂 aponti-testes-de-software-turma-18/
-├── 📂 01-GitHub/
-│   ├── 📂 Exercício 01/
-│   │   └── README.md            # Documentação do exercício 01
-│   └── README.md                # Documentação do módulo 01
-└── README.md                    # Arquivo de documentação principal
-└── LICENSE                      # Arquivo de Licença do MIT
+📂 aponti-testes-de-software-turma-18
+├── 📂 01-GitHub
+│   └── 📂 Exercício 01
+│       ├── 📂 docs
+│       │   └── 📄 documento.pdf
+│       └── 📄 README.md
+├── 📄 LICENSE
+└── 📄 README.md
 ```
 
 ---
