@@ -14,4 +14,4 @@ Qualidade vai muito além de "não ter bugs". Um software de qualidade é funcio
 
 ## Qual o papel do QA em um time moderno?
 
-Em times ágeis, o QA não testa só no final (como no modelo cascata) — participa desde o refinamento de requisitos, ajudando a identificar riscos antes do código ser escrito. Ele é a ponte entre negócio, desenvolvimento e usuário, garantindo entendimento comum sobre o que precisa ser entregue. Suas responsabilidades vão de planejar e executar testes (manuais e automatizados) a documentar bugs de forma clara e promover uma cultura de qualidade no time, onde todos se sentem responsáveis pelo resultado final.
+Em times ágeis, o QA não testa só no final (como no modelo cascata) participa desde o refinamento de requisitos, ajudando a identificar riscos antes do código ser escrito. Ele é a ponte entre negócio, desenvolvimento e usuário, garantindo entendimento comum sobre o que precisa ser entregue. Suas responsabilidades vão de planejar e executar testes (manuais e automatizados) a documentar bugs de forma clara e promover uma cultura de qualidade no time, onde todos se sentem responsáveis pelo resultado final.
