@@ -1,6 +1,6 @@
 # Atividade Avaliativa - Importância dos Testes e Custo de Defeitos
 
-Este documento contém apenas as respostas para as questões propostas em sala. O documento referência será upado no repositório em breve.
+Este documento contém apenas as respostas para as questões propostas em sala. O documento referência será subido no repositório em breve.
 
 ## Defeito 1 – Ficha de Anamnese
 
