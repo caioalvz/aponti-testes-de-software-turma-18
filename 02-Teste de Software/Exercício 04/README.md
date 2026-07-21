@@ -4,7 +4,7 @@
 
 ### Objetivo da Atividade
 
-Nesta atividade, você deverá identificar exemplos de testes para cada nível de teste de software (Unitário, Integração, Sistema e Aceitação), relacionando-os às funcionalidades e regras de negócio do sistema.
+Nesta atividade, devemos identificar exemplos de testes para cada nível de teste de software (Unitário, Integração, Sistema e Aceitação), relacionando-os às funcionalidades e regras de negócio do sistema.
 
 ---
 
