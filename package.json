@@ -1,0 +1,21 @@
+{
+  "name": "aponti-testes-de-software-turma-18",
+  "version": "1.0.0",
+  "description": "Bem-vindo!  Este repositório reúne materiais utilizados na Formação em Testes de Software,  organizados em trilhas de aprendizagem.  ## Objetivo - Construir um portfólio profissional # Trilhas  | Módulo | Conteúdo |  |---------|----------|  | 01 | Git e GitHub |  | 02 | Lógica básica de sistemas |  | 03 | Testes manuais  |  | 04 | Ferramentas básicas da área  |  | 05 | Testes de API |  | 06 | Automação de testes |  | 07 | Qualidade de software e integração contínua |",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caioalvz/aponti-testes-de-software-turma-18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/caioalvz/aponti-testes-de-software-turma-18/issues"
+  },
+  "homepage": "https://github.com/caioalvz/aponti-testes-de-software-turma-18#readme"
+}
