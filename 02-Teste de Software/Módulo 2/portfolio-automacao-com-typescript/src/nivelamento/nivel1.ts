@@ -16,7 +16,7 @@ let jogador:usuario = {nick: 'Ricardo', age: 18};
 
 let jogadorVelho = {nick:'Toin', age: 76};
 
-function VerificaIdade(usuarioAtual:usuario) {
+function VerificarIdade(usuarioAtual:usuario) {
     if (usuarioAtual.age >= 21){
         console.log(`✅ Acesso liberado: O jogador ${usuarioAtual.nick} tem ${usuarioAtual.age} anos e pode jogar nosso joguinho muito massa de pei pei.`);
     } else {
@@ -24,18 +24,26 @@ function VerificaIdade(usuarioAtual:usuario) {
     }
 }
 
-VerificaIdade(jogador);
-VerificaIdade(jogadorVelho);
+VerificarIdade(jogador);
+VerificarIdade(jogadorVelho);
 
 
 
-type celular = {marca:string, ram:number, anoLancamento:number}
+type Celular = {marca:string, ram:number, anoLancamento:number}
 
-let GalaxyA17:celular = {marca: 'SAMSUNG', ram: 8, anoLancamento: 2025}
+let galaxyA17:Celular = {marca: 'SAMSUNG', ram: 8, anoLancamento: 2025}
 
 
-function VerificaRAM (celularAtual:celular) {
-    console.log(celularAtual.ram <= 4 ? `Este celular da marca ${celularAtual.marca}, lançado em ${celularAtual.anoLancamento}, possui apenas ${celularAtual.ram}GB de memória RAM, o que é ❌INSUFICIENTE para rodar PUBG.` : `Este celular da marca ${celularAtual.marca}, lançado em ${celularAtual.anoLancamento}, possui ${celularAtual.ram}GB de memória RAM, o que é ✅SUFICIENTE para rodar PUBG.`)
+function verificarRAM (celularAtual:Celular) {
+    let resultadoAnalise = 
+        
+        celularAtual.ram <= 4 
+            
+            ? `Este celular da marca ${celularAtual.marca}, lançado em ${celularAtual.anoLancamento}, possui apenas ${celularAtual.ram}GB de memória RAM, o que é ❌INSUFICIENTE para rodar PUBG.` 
+            
+            : `Este celular da marca ${celularAtual.marca}, lançado em ${celularAtual.anoLancamento}, possui ${celularAtual.ram}GB de memória RAM, o que é ✅SUFICIENTE para rodar PUBG.`
+    
+    console.log(resultadoAnalise)
 }
 
-VerificaRAM (GalaxyA17)
+verificarRAM (galaxyA17)
