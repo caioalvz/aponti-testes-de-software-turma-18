@@ -20,7 +20,7 @@ type Comment = {
 async function listarPosts() {
     console.log(`--- 1. GET /posts ---`)
     const res = await fetch(`${BASE_URL}/posts`);
-    const dados: Post[] = await res.json();
+    const dados:Post[] = await res.json();
     console.log(`Status: ${res.status}`)
     console.log(`Lidos: ${dados.length} posts.\nEx: do primeiro:`, dados[0].title)
 }
@@ -63,7 +63,7 @@ async function criarPost(postParaCriar: Post) {
 // Executando todas as requisições em sequência
 async function chamarReqs(){
     await listarPosts();
-    await buscarPorId(35);
+    await buscarPorId(87);
     await listarComment(35);
 
     const novoPost: Post = {
