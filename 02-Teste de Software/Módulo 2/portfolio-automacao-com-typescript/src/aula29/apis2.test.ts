@@ -59,3 +59,12 @@ test('Método PATCH para EDITAR um post completo', async () => {
     const dados = await res.json();
     expect(dados.title).toBe('Meu novo post com título editado');
 })
+
+test('Método DELETE para excluir um post', async () => {
+    const res = await fetch(`${BASE_URL}/posts/1`, {
+        method: 'DELETE'
+    });
+
+    // Testa se o status code é 200 ou 204 (ajuste conforme sua API)
+    expect(res.status).toBe(200); 
+});

@@ -12,7 +12,7 @@ function loginLento(usuario:string): Promise <string> {
 test ('Simular login usando fake timers', async ()=>{
     //Ligando a máquina do tempo
     vi.useFakeTimers();
-    console.log(`Iniciando LOGIN DE TETAS`);
+    console.log(`Iniciando LOGIN DE TESTE`);
 
     //Chamando promise usuário sem await
     const promessaLogin = loginLento('Bomba da Peste');
